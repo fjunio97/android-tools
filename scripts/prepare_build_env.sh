@@ -2,6 +2,7 @@
 # Telegram @fjunio97
 
 # android build env
+cd ~/
 git clone https://github.com/akhilnarang/scripts
 bash scripts/setup/android_build_env.sh
 
