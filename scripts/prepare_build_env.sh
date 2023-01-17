@@ -1,5 +1,5 @@
 # This Script is to Prepare Linux Environment to Build Custom Rom's
-# Telegram @fjunio97
+# Telegram @juniosys
 
 # android build env
 cd ~/
