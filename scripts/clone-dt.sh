@@ -1,13 +1,13 @@
 #
 
 # device tree
-git clone git@github.com:juniosys/device_xiaomi_ginkgo.git device/xiaomi/ginkgo
+git clone https://github.com/Jabiyeff/android_device_xiaomi_spes.git -b 13-staging device/xiaomi/spes
 
 # kernel
-git clone git@github.com:juniosys/kernel_xiaomi_ginkgo.git kernel/xiaomi/ginkgo
+git clone https://github.com/Jabiyeff/kernel_xiaomi_spes_header.git -b 12 kernel/xiaomi/spes
 
 # vendor
-git clone git@github.com:juniosys/vendor_xiaomi_ginkgo.git vendor/xiaomi/ginkgo
+git clone https://github.com/Jabiyeff/android_vendor_xiaomi_spes.git -b 13.0 vendor/xiaomi/spes
 
-# miui camera
-git clone git@github.com:juniosys/vendor_miuicamera.git vendor/miuicamera
+# Xioami Hardware
+git clone https://github.com/LineageOS/android_hardware_xiaomi.git -b lineage-20 hardware/xiaomi
